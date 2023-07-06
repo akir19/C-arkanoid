@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1687807541 source:f:\2023\it\c\code\arcanoid2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+
